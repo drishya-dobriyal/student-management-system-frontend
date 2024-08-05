@@ -17,7 +17,7 @@ Before setting up the frontend, make sure you have the following installed:
 Clone the repository and navigate into the frontend directory:
 
     ```bash
-    git clone https://github.com/yourusername/student-management-system.git
+    git clone https://github.com/drishya-dobriyal/student-management-system-frontend
     cd student-management-system/frontend
     ```
 
