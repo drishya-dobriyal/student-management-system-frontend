@@ -8,6 +8,7 @@ import StudentListPage from './pages/StudentListPage';
 import CourseManagementPage from './pages/CourseManagementPage';
 import LandingPage from './pages/LandingPage';
 import AuthContext, { AuthProvider } from './context/AuthContext';
+import './App.css';
 
 function AppRoutes() {
   const { auth } = useContext(AuthContext);
